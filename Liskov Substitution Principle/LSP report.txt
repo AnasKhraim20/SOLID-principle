@@ -1,0 +1,7 @@
+the classes (Limited Costumer class) cannot be subsituted for (CostumerA)
+that mean when using the costumer class the code dosent work 
+if the subClass (Limited) is passed
+
+it was avoided by making a class CustomerA that contains the functions
+ and both classes limited Customer , CustomerB are inherited from it
+ then simple changes to the override functions
