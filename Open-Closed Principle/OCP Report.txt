@@ -1,0 +1,8 @@
+In the Open Closed Principle,
+ you speak the class that contains the switch cases or if statements,
+ which are processed by making a class for each case or f-statement
+
+As shown in the solution,
+ the code talks about a calculator and all the arithmetic operations it performs 
+such as max, min, addition, counting, multiplication,
+ and a class has been made for each of them
