@@ -1,0 +1,12 @@
+As we know in Single Responsibility Principle,
+ there is a class in which there are many functions.
+ The articulations that are related or related to the same topic are placed in the same class.
+ As for the art in a class that has nothing to do with it or that it talks about another topic,
+ we do a class that is specific to that function,
+ or sometimes It is preferable that we do a better interface, 
+when this function is used only rarely
+
+Based on this rule, I processed the code,
+ as I had a class called Info that carried a lot of functions related to operations on Database,
+ returning email, and others.
+ I created a class for both the email sending process and the communication processes with Database.
