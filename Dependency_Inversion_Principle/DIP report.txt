@@ -1,0 +1,7 @@
+In the Dependency Inversion Principle,
+ you talk about dealing with the way to distribute roles and tasks given to each tool and not to confuse them,
+ and the problem was that there was a class, and it was the Windows machine that had more than one tool that mixed tasks with each other and in turning off and running
+And it was processed so that the interfacing worked for each of them
+To be called only when needed
+In each class of the tool,
+ such as the keyboard or the miniature, it has the features of turning on and off
