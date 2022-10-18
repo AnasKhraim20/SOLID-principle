@@ -1,0 +1,7 @@
+In the interface separation principle, 
+you talk about related elements and attributes.
+ In our example, the solution was to classify birds that have the ability to swim, molting or fly
+
+Where the penguin should have been only for swimming and moulting and not flying
+Also, hawks only fly and molt, not swim
+This rule was applied through the modified code
